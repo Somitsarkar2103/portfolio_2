@@ -3,7 +3,7 @@
 ## Project Details
 
 - **Student Name:** Somit Sarkar
-- **USN / SRN:** [Enter your USN / SRN here]
+- **USN / SRN:** R25EA222
 - **Project Title:** MyFirstGitProject - Personal Portfolio Introduction Webpage
 
 ---
